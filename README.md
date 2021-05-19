@@ -6,7 +6,7 @@ Package management system requested by residential condominium Ipê, Osasco - SP
 
 Designed, in principle, for simple local operation with login functions (administrator and conventional user), registration, editing and removal of residents and packages, sending e-mails and much more.
 
-Built in Python using the Tkinter graphical interface library and text files for data storage. Interrupted and migrated to Django for reasons of scalability and modernity.
+Built in Python using the Tkinter graphical interface library and text files for data storage. Interrupted and [migrated to Django](https://github.com/tofolo17/ipeCondominium) for reasons of scalability and modernity.
 
 ## O que você encontrará neste repositório?
 
@@ -14,4 +14,4 @@ Sistema de gerenciamento de encomendas solicitado pelo condomínio residencial I
 
 Arquitetado, a princípio, para operações locais simples, como login (admin e usuário convencional), registro, edição e remoção de moradores e encomendas, envio de e-mails e mais.
 
-Construído em Python utilizando a biblioteca de interface gráfica Tkinter e arquivos de texto para armazenamento de dados. Interrompido e migrado para o Django por motivos de escalabilidade e modernidade.
+Construído em Python utilizando a biblioteca de interface gráfica Tkinter e arquivos de texto para armazenamento de dados. Interrompido e [migrado para o Django](https://github.com/tofolo17/ipeCondominium) por motivos de escalabilidade e modernidade.
